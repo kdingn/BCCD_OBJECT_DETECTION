@@ -1,0 +1,6 @@
+.ipynb_checkpoints
+artifacts
+BCCD
+BCCD_dataset
+BCCD_output
+wandb/*
